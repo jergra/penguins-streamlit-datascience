@@ -19,3 +19,5 @@ The web app was built in Python using the following libraries:
 * numpy
 * scikit-learn
 * pickle
+
+Local start: streamlit run penguins-app.py
