@@ -1,5 +1,3 @@
-# Penguins web app deployed on Heroku
-
 July 26, 2022
 
 C:\datascience\streamlit\penguins-heroku
@@ -22,3 +20,8 @@ The web app was built in Python using the following libraries:
 * pickle
 
 Local start: streamlit run penguins-app.py
+
+Update:
+    git add .
+    git commit -m 'message'
+    git push
